@@ -12,7 +12,7 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>https://jdjump12345.github.io/bunny/ipa/Bunny.ipa</string>
+          <string>https://jdjump12345.github.io/bunny/ipa/bunny.ipa</string>
         </dict>
       </array>
       <key>metadata</key>
