@@ -12,19 +12,19 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>https://jdjump12345.github.io/bunny/ipa/bunny.ipa</string>
+          <string>https://resources.usescarlet.com/repo/IPAs/Entitled.ipa</string>
         </dict>
       </array>
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>com.discord.bunny.mod</string>
+        <string>com.usescarlet.entitled</string>
         <key>bundle-version</key>
         <string>1.0.0</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>Bunny Mod</string>
+        <string>Scarlet Entitled</string>
       </dict>
     </dict>
   </array>
