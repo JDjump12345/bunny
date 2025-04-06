@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" 
-"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+ "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
   <key>items</key>
@@ -12,19 +12,19 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>https://jdjump12345.github.io/bunny/ipa/Bunny.ipa</string>
+          <string>https://resources.usescarlet.com/repo/IPAs/Entitled.ipa</string>
         </dict>
       </array>
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>com.jd.bunny</string>
+        <string>com.usescarlet.entitled</string>
         <key>bundle-version</key>
-        <string>1.0</string>
+        <string>1.0.0</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>Bunny</string>
+        <string>Scarlet Entitled</string>
       </dict>
     </dict>
   </array>
